@@ -1,4 +1,4 @@
-/*  http://matthewvantemple.wordpress.com/the-evolution-of-culture/          */
+/*  http://matthewtemple.wordpress.com/the-evolution-of-culture/             */
 
 #include <stdlib.h>
 
